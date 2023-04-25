@@ -1,0 +1,8 @@
+Oğuz Kağan DÖNMEZ
+203405025
+Bilgisayar Mühendisliği 3.Sınıf
+Mikroişlemciler Ders Ödevi
+------------------------------------
+Not:
+
+Step Motor 4. örneğindeki Dalgalı sürüş, Tam adım sürüş, Yarım adım sürüş; Ödev Örnek4 dosyasında tek bir microC kodu olarak hazırlanmıştır. Kullanılmak istenen sürüş dışındakileri yorum satırına alıp build ederek 3'ü de kullanılabilir.
